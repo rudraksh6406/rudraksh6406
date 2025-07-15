@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rudraksh6406
-- 👀 I’m interested in ... ethical hacking and learning more about coding
-- 🌱 I’m currently learning ...c language
+- 👀 I’m interested in ... machine learning and learning more about coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...dubeyrudra76@gmail.com
 
